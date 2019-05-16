@@ -1,0 +1,114 @@
+main{
+	border: 10px solid lightgray;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	height: 975px;
+	width: 390px;
+}
+
+#col-one {
+	float: left;
+	height: 195px;
+	width: 195px;
+}
+
+#col-two {
+	float: left;
+	height: 195px;
+	width: 195px;
+}
+
+div {
+	height: 195px;
+	width: 195px;
+	text-align: center;
+}
+
+.color-one {
+	background: lightcoral;
+}
+
+.color-two {
+	background: cornflowerblue;
+}
+
+.color-three {
+	background: powderblue;
+}
+
+.color-four {
+	background: cadetblue;
+}
+
+#p-one {
+	font-size: 23px;
+	margin: 0;
+	padding: 20px 15px;
+	line-height: 27px;
+}
+
+#p-two {
+	font-family: 'Quattrocento', serif;
+	font-weight: normal;
+	font-size: 22px;
+	padding: 65px 8px;
+	margin: 0;
+}
+
+#p-three {
+	font-size: 15px;
+	margin: 0;
+	padding: 40px 8px;
+}
+
+#p-four {
+	font-size: 15px;
+	margin: 0;
+	padding: 70px 8px;
+}
+
+#p-five {
+	font-size: 15px;
+	margin: 0;
+	padding: 70px 8px;
+}
+
+#p-six {
+	font-size: 15px;
+	margin: 0;
+	padding: 38px 8px;
+}
+
+#p-seven {
+	font-size: 15px;
+	margin: 0;
+	padding: 45px 8px;
+}
+
+#p-eight {
+	font-size: 15px;
+	margin: 0;
+	padding: 50px 8px;
+}
+
+#p-nine {
+	font-size: 23px;
+	margin: 0;
+	padding: 20px 12px;
+	line-height: 30px;
+}
+
+#p-ten {
+	font-family: 'Quattrocento', serif;
+	font-weight: normal;
+	font-size: 22px;
+	padding: 55px 8px;
+	margin:0;
+}
+
+span {
+	font-family: 'Quattrocento', serif;
+	font-weight: normal;
+	font-size: 18px;
+}
